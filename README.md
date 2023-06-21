@@ -1,5 +1,5 @@
 # Airbnb-Finder
-Find the Best Option Airbnb in specific Neighborhoods in Boston based on price and safety
+Find the Best Option Airbnb in specific Neighborhoods in Boston based on price, safety, location, and suitable alternatives.
 
         The AirBnb data was collected from their official data source for the total 
         listings in Boston for 2022. The crime data was collected from Analyze Boston 
