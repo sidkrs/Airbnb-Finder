@@ -1,8 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Rajiv Srinath, Siddarth Kerkar, Shreya Oberai
-DS2001
 File: airbnb_analysis.py
 
 Report:
